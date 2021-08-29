@@ -920,7 +920,7 @@ a{
         text-align: center;
     }
     .header__menu{
-        transform: translateY(100%);
+        transform: translateY(1500px);
         transition: transform 0.3s;
     }
     .menu--active{
